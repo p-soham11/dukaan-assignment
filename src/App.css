@@ -1,0 +1,1182 @@
+/** @format */
+
+.payouts-dukaanpay {
+    background-color: #f9f9f9;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.payouts-dukaanpay .div {
+    background-color: var(--black-98);
+    width: 1440px;
+    height: 882px;
+    position: relative;
+    left: -19px;
+    top: -8px;
+}
+
+.payouts-dukaanpay .dashboard-header {
+    display: flex;
+    width: 1216px;
+    align-items: center;
+    gap: 16px;
+    padding: 12px 32px;
+    position: absolute;
+    top: 0;
+    left: 224px;
+    background-color: var(--black-100);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #d9d9d9;
+}
+
+.payouts-dukaanpay .frame {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+}
+
+.payouts-dukaanpay .div-2 {
+    display: inline-flex;
+    align-items: center;
+    gap: 16px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.payouts-dukaanpay .dashboard {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: var(--heading-h5-font-family);
+    font-weight: var(--heading-h5-font-weight);
+    color: #1a181e;
+    font-size: var(--heading-h5-font-size);
+    letter-spacing: var(--heading-h5-letter-spacing);
+    line-height: var(--heading-h5-line-height);
+    white-space: nowrap;
+    font-style: var(--heading-h5-font-style);
+}
+
+.payouts-dukaanpay .div-3 {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.payouts-dukaanpay .img {
+    position: relative;
+    width: 14px;
+    height: 14px;
+}
+
+.payouts-dukaanpay .how-to-use {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: var(--caption-regular-font-family);
+    font-weight: var(--caption-regular-font-weight);
+    color: #4c4c4c;
+    font-size: var(--caption-regular-font-size);
+    letter-spacing: var(--caption-regular-letter-spacing);
+    line-height: var(--caption-regular-line-height);
+    white-space: nowrap;
+    font-style: var(--caption-regular-font-style);
+}
+
+.payouts-dukaanpay .frame-2 {
+    display: flex;
+    width: 400px;
+    align-items: center;
+    gap: 8px;
+    padding: 9px 16px;
+    position: relative;
+    align-self: stretch;
+    background-color: #f2f2f2;
+    border-radius: 6px;
+}
+
+.payouts-dukaanpay .img-2 {
+    position: relative;
+    width: 16px;
+    height: 16px;
+}
+
+.payouts-dukaanpay .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.5px;
+    font-family: "Galano Grotesque-Regular", Helvetica;
+    font-weight: 400;
+    color: #7f7f7f;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+}
+
+.payouts-dukaanpay .component-wrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    gap: 8px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+}
+
+.payouts-dukaanpay .div-4 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 12px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.payouts-dukaanpay .icons-menu {
+    position: relative;
+    width: 40px;
+    height: 40px;
+}
+
+.payouts-dukaanpay .polygon-wrapper {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    background-color: #e6e6e6;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.polygon-wrapper .polygon {
+    width: 40px;
+    height: 40px;
+}
+
+.payouts-dukaanpay .polygon {
+    position: absolute;
+    width: 18px;
+    height: 14px;
+    top: 13px;
+    left: 11px;
+}
+
+.payouts-dukaanpay .frame-3 {
+    display: flex;
+    flex-direction: column;
+    width: 1152px;
+    align-items: flex-start;
+    gap: 32px;
+    position: absolute;
+    top: 96px;
+    left: 256px;
+}
+
+.payouts-dukaanpay .frame-4 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.payouts-dukaanpay .frame-5 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.payouts-dukaanpay .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    font-family: "Galano Grotesque-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--black-12);
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+}
+
+.payouts-dukaanpay .group {
+    width: 139px;
+    margin-right: -2px;
+    position: relative;
+    height: 36px;
+}
+
+.payouts-dukaanpay .overlap-group {
+    position: relative;
+    width: 137px;
+    height: 36px;
+    background-color: var(--black-100);
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: var(--black-85);
+}
+
+.payouts-dukaanpay .text-wrapper-3 {
+    position: absolute;
+    top: 5px;
+    left: 13px;
+    font-family: "Galano Grotesque-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--black-30);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+}
+
+.payouts-dukaanpay .icons-arrow {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 9px;
+    left: 106px;
+}
+
+.payouts-dukaanpay .frame-6 {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.payouts-dukaanpay .frame-7 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+    box-shadow: var(--shadow-card);
+}
+
+.payouts-dukaanpay .frame-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 154px;
+    align-items: flex-start;
+    gap: 16px;
+    padding: 20px;
+    position: relative;
+    left: 16px;
+    /* align-self: stretch; */
+    width: 100%;
+    background-color: var(--primary-blue);
+    border-radius: var(--spacings-spacing-spacing-04);
+}
+
+.payouts-dukaanpay .frame-8 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+
+    /* align-self: stretch; */
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.payouts-dukaanpay .div-5 {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.payouts-dukaanpay .text-wrapper-4 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: var(--sub-title-regular-font-family);
+    font-weight: var(--sub-title-regular-font-weight);
+    color: var(--black-100);
+    font-size: var(--sub-title-regular-font-size);
+    letter-spacing: var(--sub-title-regular-letter-spacing);
+    line-height: var(--sub-title-regular-line-height);
+    white-space: nowrap;
+    font-style: var(--sub-title-regular-font-style);
+}
+
+.payouts-dukaanpay .text-wrapper-5 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Galano Grotesque-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--black-100);
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: 38px;
+    white-space: nowrap;
+}
+
+.payouts-dukaanpay .frame-9 {
+    display: inline-flex;
+    align-items: center;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.payouts-dukaanpay .link {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.payouts-dukaanpay .link-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Galano Grotesque-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--black-100);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+    text-decoration: underline;
+    white-space: nowrap;
+}
+
+.payouts-dukaanpay .outlined-chevron {
+    position: relative;
+    width: 24px;
+    height: 24px;
+}
+
+.payouts-dukaanpay .frame-10 {
+    display: flex;
+    width: 97.8%;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 8px 24px;
+    position: absolute;
+    left: -4px;
+    top: 160px;
+    background-color: var(--hoverblue);
+    border-radius: 8px;
+}
+
+.payouts-dukaanpay .text-wrapper-6 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Galano Grotesque-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--black-95);
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+}
+
+.payouts-dukaanpay .text-wrapper-7 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Galano Grotesque-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--black-95);
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+}
+
+.payouts-dukaanpay .div-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+}
+
+.download {
+    width: 24px;
+    height: 24px;
+}
+
+.payouts-dukaanpay .frame-11 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    padding: 20px;
+    position: relative;
+    left: 35px;
+    flex: 1;
+    flex-grow: 1;
+    background-color: var(--black-100);
+    border-radius: var(--spacings-spacing-spacing-04);
+    box-shadow: var(--shadow-card);
+}
+
+.payouts-dukaanpay .text-wrapper-8 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: var(--sub-title-regular-font-family);
+    font-weight: var(--sub-title-regular-font-weight);
+    color: var(--black-30);
+    font-size: var(--sub-title-regular-font-size);
+    letter-spacing: var(--sub-title-regular-letter-spacing);
+    line-height: var(--sub-title-regular-line-height);
+    white-space: nowrap;
+    font-style: var(--sub-title-regular-font-style);
+}
+
+.payouts-dukaanpay .text-wrapper-9 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Galano Grotesque-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--black-12);
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: 38px;
+    white-space: nowrap;
+}
+
+.payouts-dukaanpay .link-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Galano Grotesque-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--primary-blue);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+    text-decoration: underline;
+    white-space: nowrap;
+}
+
+.payouts-dukaanpay .frame-12 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+}
+
+.payouts-dukaanpay .frame-13 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.payouts-dukaanpay .text-wrapper-10 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Galano Grotesque-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--black-12);
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+}
+
+.payouts-dukaanpay .pills {
+    gap: 10px;
+    background-color: var(--black-90);
+    display: inline-flex;
+    align-items: center;
+    padding: 6px 16px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 40px;
+}
+
+.payouts-dukaanpay .text-here {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: var(--body-2-medium-font-family);
+    font-weight: var(--body-2-medium-font-weight);
+    color: var(--black-50);
+    font-size: var(--body-2-medium-font-size);
+    letter-spacing: var(--body-2-medium-letter-spacing);
+    line-height: var(--body-2-medium-line-height);
+    white-space: nowrap;
+    font-style: var(--body-2-medium-font-style);
+}
+
+.payouts-dukaanpay .pills-2 {
+    gap: 6px;
+    background-color: var(--primary-blue);
+    display: inline-flex;
+    align-items: center;
+    padding: 6px 16px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 40px;
+}
+
+.payouts-dukaanpay .text-wrapper-11 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: var(--body-2-medium-font-family);
+    font-weight: var(--body-2-medium-font-weight);
+    color: var(--black-100);
+    font-size: var(--body-2-medium-font-size);
+    letter-spacing: var(--body-2-medium-letter-spacing);
+    line-height: var(--body-2-medium-line-height);
+    white-space: nowrap;
+    font-style: var(--body-2-medium-font-style);
+}
+
+.payouts-dukaanpay .template {
+    display: flex;
+    flex-direction: column;
+    width: 1152px;
+    align-items: flex-end;
+    padding: 12px 12px 8px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: var(--black-100);
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: var(--shadow-card);
+}
+
+.payouts-dukaanpay .frame-14 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 12px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.payouts-dukaanpay .input-search-box {
+    display: flex;
+    width: 248px;
+    align-items: flex-start;
+    position: relative;
+}
+
+.payouts-dukaanpay .input-search-field {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 16px;
+    padding-bottom: 0px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+    background-color: var(--black-100);
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: var(--black-85);
+}
+
+.payouts-dukaanpay .order-ID-phone-or-a {
+    position: relative;
+    flex: 1;
+    margin-top: -1px;
+    font-family: var(--body-2-regular-font-family);
+    font-weight: var(--body-2-regular-font-weight);
+    color: var(--black-60);
+    font-size: var(--body-2-regular-font-size);
+    letter-spacing: var(--body-2-regular-letter-spacing);
+    line-height: var(--body-2-regular-line-height);
+    font-style: var(--body-2-regular-font-style);
+}
+
+.payouts-dukaanpay .div-6 {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.payouts-dukaanpay .frame-15 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 16px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.payouts-dukaanpay .button-sort {
+    all: unset;
+    box-sizing: border-box;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 12px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: var(--black-100);
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: var(--black-85);
+}
+
+.payouts-dukaanpay .group-2 {
+    width: 36px;
+    position: relative;
+    height: 36px;
+}
+
+.payouts-dukaanpay .header {
+    display: flex;
+    width: 1128px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 12px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: var(--black-95);
+    border-radius: 4px;
+}
+
+.payouts-dukaanpay .cell-header-row {
+    display: flex;
+    flex-direction: column;
+    width: 150.67px;
+    align-items: flex-start;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.payouts-dukaanpay .div-7 {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.payouts-dukaanpay .text {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 2px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.payouts-dukaanpay .sample-data {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: var(--body-2-medium-font-family);
+    font-weight: var(--body-2-medium-font-weight);
+    color: var(--black-30);
+    font-size: var(--body-2-medium-font-size);
+    letter-spacing: var(--body-2-medium-letter-spacing);
+    line-height: var(--body-2-medium-line-height);
+    white-space: nowrap;
+    font-style: var(--body-2-medium-font-style);
+}
+
+.payouts-dukaanpay .resizable-spacer {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 90px;
+    position: relative;
+    flex: 0 0 auto;
+    margin-top: -1px;
+    opacity: 0;
+}
+
+.payouts-dukaanpay .end-point {
+    position: relative;
+    width: 1px;
+    height: 1px;
+    border-radius: 0;
+}
+
+.payouts-dukaanpay .end-point-2 {
+    position: relative;
+    width: 1px;
+    height: 1px;
+    margin-right: -1px;
+    border-radius: 0;
+}
+
+.payouts-dukaanpay .sample-data-2 {
+    font-family: var(--body-2-medium-font-family);
+    font-weight: var(--body-2-medium-font-weight);
+    color: var(--black-30);
+    text-align: right;
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-size: var(--body-2-medium-font-size);
+    letter-spacing: var(--body-2-medium-letter-spacing);
+    line-height: var(--body-2-medium-line-height);
+    white-space: nowrap;
+    font-style: var(--body-2-medium-font-style);
+}
+
+.payouts-dukaanpay .cell-header-row-2 {
+    display: flex;
+    flex-direction: column;
+    width: 150.67px;
+    align-items: flex-end;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.payouts-dukaanpay .data-table {
+    display: flex;
+    width: 1128px;
+    height: 48px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 12px;
+    position: relative;
+    background-color: var(--black-100);
+}
+
+.payouts-dukaanpay .column {
+    display: flex;
+    flex-direction: column;
+    width: 150.67px;
+    align-items: flex-start;
+    justify-content: center;
+    position: relative;
+    background-color: var(--black-100);
+    overflow: hidden;
+}
+
+.payouts-dukaanpay .sample-data-3 {
+    font-family: var(--body-2-medium-font-family);
+    font-weight: var(--body-2-medium-font-weight);
+    color: var(--primary-blue);
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-size: var(--body-2-medium-font-size);
+    letter-spacing: var(--body-2-medium-letter-spacing);
+    line-height: var(--body-2-medium-line-height);
+    white-space: nowrap;
+    font-style: var(--body-2-medium-font-style);
+}
+
+.payouts-dukaanpay .resizable-spacer-2 {
+    gap: 376px;
+    margin-right: -225.33px;
+    display: inline-flex;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+    margin-top: -1px;
+    opacity: 0;
+}
+
+.payouts-dukaanpay .ellipse {
+    position: relative;
+    width: 10px;
+    height: 10px;
+    background-color: var(--secondary-green);
+    border-radius: 5px;
+}
+
+.payouts-dukaanpay .text-wrapper-12 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: var(--body-2-regular-font-family);
+    font-weight: var(--body-2-regular-font-weight);
+    color: var(--black-12);
+    font-size: var(--body-2-regular-font-size);
+    letter-spacing: var(--body-2-regular-letter-spacing);
+    line-height: var(--body-2-regular-line-height);
+    white-space: nowrap;
+    font-style: var(--body-2-regular-font-style);
+}
+
+.payouts-dukaanpay .resizable-spacer-3 {
+    gap: 120px;
+    display: inline-flex;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+    margin-top: -1px;
+    opacity: 0;
+}
+
+.payouts-dukaanpay .sample-data-4 {
+    font-family: var(--body-2-regular-font-family);
+    font-weight: var(--body-2-regular-font-weight);
+    color: var(--black-30);
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-size: var(--body-2-regular-font-size);
+    letter-spacing: var(--body-2-regular-letter-spacing);
+    line-height: var(--body-2-regular-line-height);
+    white-space: nowrap;
+    font-style: var(--body-2-regular-font-style);
+}
+
+.payouts-dukaanpay .column-2 {
+    display: flex;
+    flex-direction: column;
+    width: 150.67px;
+    align-items: flex-end;
+    justify-content: center;
+    position: relative;
+    background-color: var(--black-100);
+    overflow: hidden;
+}
+
+.payouts-dukaanpay .sample-data-5 {
+    font-family: var(--body-2-regular-font-family);
+    font-weight: var(--body-2-regular-font-weight);
+    color: var(--black-12);
+    text-align: right;
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-size: var(--body-2-regular-font-size);
+    letter-spacing: var(--body-2-regular-letter-spacing);
+    line-height: var(--body-2-regular-line-height);
+    white-space: nowrap;
+    font-style: var(--body-2-regular-font-style);
+}
+
+.payouts-dukaanpay .divider {
+    top: 47px;
+    background-image: url(./img/line-3.svg);
+    background-size: cover;
+    background-position: 50% 50%;
+    position: absolute;
+    width: 1104px;
+    height: 1px;
+    left: 12px;
+}
+
+.payouts-dukaanpay .ellipse-2 {
+    position: relative;
+    width: 10px;
+    height: 10px;
+    background-color: var(--black-60);
+    border-radius: 5px;
+}
+
+.payouts-dukaanpay .divider-2 {
+    top: 47px;
+    background-image: url(./img/line-5.svg);
+    background-size: cover;
+    background-position: 50% 50%;
+    position: absolute;
+    width: 1104px;
+    height: 1px;
+    left: 12px;
+}
+
+.payouts-dukaanpay .divider-3 {
+    top: 47px;
+    background-image: url(./img/line-4.svg);
+    background-size: cover;
+    background-position: 50% 50%;
+    position: absolute;
+    width: 1104px;
+    height: 1px;
+    left: 12px;
+}
+
+.payouts-dukaanpay .divider-4 {
+    top: 47px;
+    background-image: url(./img/line-2.svg);
+    background-size: cover;
+    background-position: 50% 50%;
+    position: absolute;
+    width: 1104px;
+    height: 1px;
+    left: 12px;
+}
+
+.payouts-dukaanpay .divider-5 {
+    top: 47px;
+    background-image: url(./img/line.svg);
+    background-size: cover;
+    background-position: 50% 50%;
+    position: absolute;
+    width: 1104px;
+    height: 1px;
+    left: 12px;
+}
+
+.payouts-dukaanpay .divider-6 {
+    top: 48px;
+    position: absolute;
+    width: 1104px;
+    height: 1px;
+    left: 12px;
+}
+
+.payouts-dukaanpay .navbar {
+    display: inline-flex;
+    flex-direction: column;
+    height: 882px;
+    align-items: flex-start;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.payouts-dukaanpay .navbar-account {
+    display: flex;
+    flex-direction: column;
+    width: 224px;
+    align-items: center;
+    gap: 16px;
+    padding: 16px 10px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+    background-color: var(--secondary-navbar);
+}
+
+.payouts-dukaanpay .nav-top {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+    margin-left: -2px;
+    margin-right: -2px;
+}
+
+.payouts-dukaanpay .company-icon-image {
+    display: flex;
+    width: 192px;
+    align-items: center;
+    gap: 12px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.payouts-dukaanpay .rectangle {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    background-color: var(--black-100);
+    border-radius: 4px;
+}
+
+.payouts-dukaanpay .frame-16 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 4px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+}
+
+.payouts-dukaanpay .text-wrapper-13 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1px;
+    font-family: var(--body-1-medium-font-family);
+    font-weight: var(--body-1-medium-font-weight);
+    color: var(--black-100);
+    font-size: var(--body-1-medium-font-size);
+    letter-spacing: var(--body-1-medium-letter-spacing);
+    line-height: var(--body-1-medium-line-height);
+    font-style: var(--body-1-medium-font-style);
+}
+
+.payouts-dukaanpay .text-wrapper-14 {
+    position: relative;
+    align-self: stretch;
+    opacity: 0.8;
+    font-family: "Galano Grotesque-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--black-100);
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 16px;
+    text-decoration: underline;
+}
+
+.payouts-dukaanpay .image {
+    position: absolute;
+    width: 39px;
+    height: 39px;
+    top: 0;
+    left: 0;
+}
+
+.payouts-dukaanpay .img-3 {
+    position: relative;
+    width: 20px;
+    height: 20px;
+}
+
+.payouts-dukaanpay .pages {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+}
+
+.payouts-dukaanpay .basenav-button {
+    all: unset;
+    box-sizing: border-box;
+    width: 208px;
+    gap: 12px;
+    padding: 8px 16px;
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 4px;
+}
+
+.payouts-dukaanpay .text-wrapper-15 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    opacity: 0.8;
+    font-family: var(--body-2-medium-font-family);
+    font-weight: var(--body-2-medium-font-weight);
+    color: var(--black-100);
+    font-size: var(--body-2-medium-font-size);
+    letter-spacing: var(--body-2-medium-letter-spacing);
+    line-height: var(--body-2-medium-line-height);
+    white-space: nowrap;
+    font-style: var(--body-2-medium-font-style);
+}
+
+.payouts-dukaanpay .basenav-button-2 {
+    width: 208px;
+    gap: 12px;
+    padding: 8px 16px;
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 4px;
+}
+
+.payouts-dukaanpay .basenav-button-3 {
+    display: flex;
+    width: 208px;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 8px 16px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #ffffff1a;
+    border-radius: 4px;
+}
+
+.payouts-dukaanpay .basenav-bottom {
+    flex-direction: column;
+    width: 192px;
+    gap: 10px;
+    padding: 6px 12px;
+    background-color: #353c53;
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 4px;
+}
+
+.payouts-dukaanpay .outline-wallet-wrapper {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 6px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #ffffff1a;
+    border-radius: 4px;
+}
+
+.payouts-dukaanpay .wallet {
+    position: absolute;
+    width: 24px;
+    height: 20px;
+    top: 2px;
+    left: 0;
+}
+
+.payouts-dukaanpay .frame-17 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.payouts-dukaanpay .text-wrapper-16 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    opacity: 0.8;
+    font-family: var(--sub-body-regular-font-family);
+    font-weight: var(--sub-body-regular-font-weight);
+    color: var(--black-100);
+    font-size: var(--sub-body-regular-font-size);
+    letter-spacing: var(--sub-body-regular-letter-spacing);
+    line-height: var(--sub-body-regular-line-height);
+    white-space: nowrap;
+    font-style: var(--sub-body-regular-font-style);
+}
+
+.payouts-dukaanpay .text-wrapper-17 {
+    position: relative;
+    width: fit-content;
+    font-family: var(--sub-title-medium-font-family);
+    font-weight: var(--sub-title-medium-font-weight);
+    color: var(--black-100);
+    font-size: var(--sub-title-medium-font-size);
+    letter-spacing: var(--sub-title-medium-letter-spacing);
+    line-height: var(--sub-title-medium-line-height);
+    white-space: nowrap;
+    font-style: var(--sub-title-medium-font-style);
+}
